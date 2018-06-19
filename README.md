@@ -54,4 +54,3 @@ $ pyhon3 code_analyzer.py
 # Testing options
 
 1. For internal testing put the folder `test_data` to inside the folder where the application file `code_analyzer.py` is and launch this application the same way has pointed above.
-2. For Unit-test also testing put the folder `test_data` to inside the folder where the application file `projects_functions_verbs.py` is and launch the file `tests.py` the same way has pointed above.
