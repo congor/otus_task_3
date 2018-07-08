@@ -47,7 +47,7 @@ $ pip install requiremets.txt
 3. Make sure that the folder `test_data` is not located inside the same folder where the main application file `code_analyzer.py` is. Otherwise the internal test mode will be launched.
 5. Open console and from the folder `code_analyzer` launch the application file:
 ```bash
-$ pyhon3 code_analyzer.py
+$ python3 code_analyzer.py
 ```
 6. Take results in console and the file with results in `code_analyzer/results`.
 
